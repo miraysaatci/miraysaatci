@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @miraysaatci
-- 👀 I’m interested in data analysis
+- 👀 I’m interested in mlops
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me miraysaatci5@gmail.com
 
